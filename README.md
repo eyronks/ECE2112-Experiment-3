@@ -74,7 +74,7 @@ print(cars.tail())
 
 *Using the dataframe cars in problem 1, extract the following information using subsetting, slicing and indexing operations:*
 
-#### Script
+#### Script:
 
 **Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7…) of cars.**
 
