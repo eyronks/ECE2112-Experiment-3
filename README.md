@@ -1,6 +1,6 @@
 # ECE2112 Programming Problems
 
-This repository contains Python scripts for solving various programming problems in ECE2112. The problems are focused on the use of Python data analysis library. Below are the details of each script included in this repository:
+This repository contains Python scripts for solving various programming problems in ECE2112. The problems are focused on the use of Python Data Analysis library. Below are the details of each script included in this repository:
 
 <br/> 
 
@@ -72,7 +72,7 @@ print(cars.tail())
 
 ## Problem 2
 
-*Using the dataframe cars in problem 1, extract the following information using subsetting, slicing and indexing operations:*
+Using the dataframe cars in problem 1, extract the following information using subsetting, slicing and indexing operations:
 
 #### Script:
 
