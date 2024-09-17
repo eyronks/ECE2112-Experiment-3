@@ -133,7 +133,13 @@ print(cars.loc[cars['Model'].isin(models), ['cyl', 'gear']])
 
 **Functionality:** This approach is useful because it allows for efficient and flexible data extraction from Pandas dataframes. By combining subsetting, slicing, and indexing operations, users can quickly and precisely retrieve specific data, filter out unwanted information, and manipulate their data to meet their analysis needs
 
+<br/>
 
+##
+
+**Author:** Aaron Chastine V. Villajin
+
+**Submitted to:** Engr. Ma. Madecheen S. Pangaliman, M.Sc.
 
 
 
